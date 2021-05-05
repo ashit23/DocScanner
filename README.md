@@ -1,5 +1,5 @@
-# ScanLibrary
-ScanLibrary is an android document scanning library built on top of OpenCV, using the app you will be able to select the exact edges and crop the document accordingly from the selected 4 edges and change the perspective transformation of the cropped image.
+# DocScanner
+DocScanner is an android document scanning application built on top of OpenCV, using the app you will be able to select the exact edges and crop the document accordingly from the selected 4 edges and change the perspective transformation of the cropped image,apply filters to enhance the image, and share the image using different methods.
 
 # Screenshots
 
